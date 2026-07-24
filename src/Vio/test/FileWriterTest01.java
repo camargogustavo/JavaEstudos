@@ -15,7 +15,7 @@ public class FileWriterTest01 {
              BufferedWriter br = new BufferedWriter(fileWriter)){
             br.write("Eu sou gostosooooooooooooooooooooooooooooooo");
             file.delete();
-            br.flush();
+            br  .flush();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

@@ -18,7 +18,7 @@ public class FileTest02 {
 
         File renameDiretorio = new File("pasta2");
         boolean isrenameDiretorio = fileDiretorio.renameTo(renameDiretorio);
-        System.out.println(isrenameDiretorio);
+        System.out.println(isrenameDiretorio );
 
     }
 }
