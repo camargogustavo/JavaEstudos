@@ -1,4 +1,4 @@
-# 📚 Study With DevDojo
+# 📚 Estudando Java com DevDojo
 
 Repositório com meus estudos de Java acompanhando a playlist **"Maratonando Java"**, do canal DevDojo. Cada pasta/arquivo corresponde a uma aula da playlist, abordando um tema específico da linguagem.
 
